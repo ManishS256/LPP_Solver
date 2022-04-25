@@ -1,0 +1,8 @@
+min
+3 4
+subject to
+2 3
+gt 8
+5 2
+gt 12
+end

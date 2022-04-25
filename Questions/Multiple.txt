@@ -1,0 +1,8 @@
+max
+4 3
+subject to
+8 6
+lt 25
+3 4
+lt 15
+end
